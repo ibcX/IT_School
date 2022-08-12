@@ -1,7 +1,7 @@
 
 
-# The palindrom checker:
-# Creati o functie ce verifica daca un sir de caractere este un palindrom sau nu
+# The palindrome checker:
+
 # ex:
 # Input: aba
 # Output: YES
